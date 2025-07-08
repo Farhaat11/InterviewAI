@@ -1,6 +1,4 @@
-# InterviewMentorAI: Online Interview Preparation Tool
-
-[Live Demo](https://interview-mentor-ai-ten.vercel.app/)
+# InterviewAI: Online Interview Preparation Tool
 
 InterviewMentorAI is an innovative SaaS application designed to help users prepare for interviews by uploading their resume and participating in simulated online interviews. Built with Next.js, TypeScript, and Drizzle ORM, InterviewMentorAI leverages the Google Gemini API for advanced interview functionalities. User authentication is managed by Clerk, ensuring secure access and management.
 
